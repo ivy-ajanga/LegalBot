@@ -1,0 +1,153 @@
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\DeploymentTemplates\new-rg-parameters.json
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\DeploymentTemplates\preexisting-rg-parameters.json
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\DeploymentTemplates\template-with-new-rg.json
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\DeploymentTemplates\template-with-preexisting-rg.json
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\MultiTurnPromptBot.exe
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\MultiTurnPromptBot.deps.json
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\MultiTurnPromptBot.runtimeconfig.json
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\MultiTurnPromptBot.runtimeconfig.dev.json
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\MultiTurnPromptBot.dll
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\MultiTurnPromptBot.pdb
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.dll
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.dll
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.dll
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Bot.Schema.dll
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Bot.Streaming.dll
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Definitions.dll
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.dll
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Choice.dll
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DateTime.dll
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Number.dll
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.NumberWithUnit.dll
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.AssemblyInfo.cs
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.RazorTargetAssemblyInfo.cache
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.csproj.CopyComplete
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp3.1\staticwebassets\MultiTurnPromptBot.StaticWebAssets.Manifest.cache
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp3.1\staticwebassets\MultiTurnPromptBot.StaticWebAssets.xml
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.dll
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.pdb
+C:\Users\Tech Jargon\Desktop\botbuilder-samples\samples\csharp_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.genruntimeconfig.cache
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\DeploymentTemplates\new-rg-parameters.json
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\DeploymentTemplates\preexisting-rg-parameters.json
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\DeploymentTemplates\template-with-new-rg.json
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\DeploymentTemplates\template-with-preexisting-rg.json
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\MultiTurnPromptBot.exe
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\MultiTurnPromptBot.deps.json
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\MultiTurnPromptBot.runtimeconfig.json
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\MultiTurnPromptBot.runtimeconfig.dev.json
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\MultiTurnPromptBot.dll
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\MultiTurnPromptBot.pdb
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.dll
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.dll
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.dll
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Bot.Schema.dll
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Bot.Streaming.dll
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Definitions.dll
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.dll
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Choice.dll
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DateTime.dll
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Number.dll
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.NumberWithUnit.dll
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.AssemblyInfo.cs
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.RazorTargetAssemblyInfo.cache
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.csproj.CopyComplete
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\obj\Debug\netcoreapp3.1\staticwebassets\MultiTurnPromptBot.StaticWebAssets.Manifest.cache
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\obj\Debug\netcoreapp3.1\staticwebassets\MultiTurnPromptBot.StaticWebAssets.xml
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.dll
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.pdb
+C:\Users\Tech Jargon\Desktop\05.multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.genruntimeconfig.cache
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\DeploymentTemplates\new-rg-parameters.json
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\DeploymentTemplates\preexisting-rg-parameters.json
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\DeploymentTemplates\template-with-new-rg.json
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\DeploymentTemplates\template-with-preexisting-rg.json
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\MultiTurnPromptBot.exe
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\MultiTurnPromptBot.deps.json
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\MultiTurnPromptBot.runtimeconfig.json
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\MultiTurnPromptBot.runtimeconfig.dev.json
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\MultiTurnPromptBot.dll
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\MultiTurnPromptBot.pdb
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.dll
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.dll
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.dll
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Bot.Schema.dll
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Bot.Streaming.dll
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Definitions.dll
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.dll
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Choice.dll
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DateTime.dll
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Number.dll
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.NumberWithUnit.dll
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Administration\Desktop\multi-turn-prompt\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administration\Desktop\multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.csprojAssemblyReference.cache
+C:\Users\Administration\Desktop\multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.AssemblyInfoInputs.cache
+C:\Users\Administration\Desktop\multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.AssemblyInfo.cs
+C:\Users\Administration\Desktop\multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.csproj.CoreCompileInputs.cache
+C:\Users\Administration\Desktop\multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administration\Desktop\multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administration\Desktop\multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.RazorTargetAssemblyInfo.cache
+C:\Users\Administration\Desktop\multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.csproj.CopyComplete
+C:\Users\Administration\Desktop\multi-turn-prompt\obj\Debug\netcoreapp3.1\staticwebassets\MultiTurnPromptBot.StaticWebAssets.Manifest.cache
+C:\Users\Administration\Desktop\multi-turn-prompt\obj\Debug\netcoreapp3.1\staticwebassets\MultiTurnPromptBot.StaticWebAssets.xml
+C:\Users\Administration\Desktop\multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.dll
+C:\Users\Administration\Desktop\multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.pdb
+C:\Users\Administration\Desktop\multi-turn-prompt\obj\Debug\netcoreapp3.1\MultiTurnPromptBot.genruntimeconfig.cache
