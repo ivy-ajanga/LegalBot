@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Skp6KLCv9VrbP404hJVk6s5tY5OTI4JVtxgrI3S+olybMr7H5WwjnSrBV+/zWE7y+Fs78FNtGDamyg/zvEi6cw==",
+  "dgSpecHash": "9yj8XTPrpMDl7psZTSunroabMCW8z2F4Yow+654HDg/4bIi9yZWhfCzb5EBklaaWvgFZRzuoWZSXi9/BXS0teQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administration\\Desktop\\multi-turn-prompt\\MultiTurnPromptBot.csproj",
+  "projectFilePath": "C:\\Users\\Administration\\Desktop\\LegalBot\\MultiTurnPromptBot.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Administration\\.nuget\\packages\\adaptivecards\\2.0.0\\adaptivecards.2.0.0.nupkg.sha512",
     "C:\\Users\\Administration\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.1\\microsoft.aspnetcore.jsonpatch.3.1.1.nupkg.sha512",
     "C:\\Users\\Administration\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.1\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.1.nupkg.sha512",
     "C:\\Users\\Administration\\.nuget\\packages\\microsoft.bot.builder\\4.9.3\\microsoft.bot.builder.4.9.3.nupkg.sha512",

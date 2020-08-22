@@ -2,6 +2,20 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "AdaptiveCards/2.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.CSharp": "4.5.0",
+          "Newtonsoft.Json": "11.0.2",
+          "System.Net.Http": "4.3.4"
+        },
+        "compile": {
+          "lib/netstandard2.0/AdaptiveCards.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/AdaptiveCards.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.JsonPatch/3.1.1": {
         "type": "package",
         "dependencies": {
@@ -1928,6 +1942,23 @@
     }
   },
   "libraries": {
+    "AdaptiveCards/2.0.0": {
+      "sha512": "3OTNJsiqWzsmbNj7tz+F7QQhcTTJb1cjtdmd9bwkWBQ02EFG1SofOi9GbRYZQgrQ7qL4MdZhQdK6haeo8pdktg==",
+      "type": "package",
+      "path": "adaptivecards/2.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "adaptivecards.2.0.0.nupkg.sha512",
+        "adaptivecards.nuspec",
+        "lib/net452/AdaptiveCards.dll",
+        "lib/net452/AdaptiveCards.xml",
+        "lib/netstandard1.3/AdaptiveCards.dll",
+        "lib/netstandard1.3/AdaptiveCards.xml",
+        "lib/netstandard2.0/AdaptiveCards.dll",
+        "lib/netstandard2.0/AdaptiveCards.xml"
+      ]
+    },
     "Microsoft.AspNetCore.JsonPatch/3.1.1": {
       "sha512": "Y2hwnbYzA8nmRH3+eTXtG+HP7rkMSLcqcLh5vfoN/J3zcmYb7vMtRauSDT9GO85JGwk+blNiCDXEou8Dj2TR4g==",
       "type": "package",
@@ -6630,6 +6661,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "AdaptiveCards >= 2.0.0",
       "Microsoft.AspNetCore.Mvc.NewtonsoftJson >= 3.1.1",
       "Microsoft.Bot.Builder.Dialogs >= 4.9.3",
       "Microsoft.Bot.Builder.Integration.AspNet.Core >= 4.9.0"
@@ -6641,11 +6673,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administration\\Desktop\\multi-turn-prompt\\MultiTurnPromptBot.csproj",
+      "projectUniqueName": "C:\\Users\\Administration\\Desktop\\LegalBot\\MultiTurnPromptBot.csproj",
       "projectName": "MultiTurnPromptBot",
-      "projectPath": "C:\\Users\\Administration\\Desktop\\multi-turn-prompt\\MultiTurnPromptBot.csproj",
+      "projectPath": "C:\\Users\\Administration\\Desktop\\LegalBot\\MultiTurnPromptBot.csproj",
       "packagesPath": "C:\\Users\\Administration\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administration\\Desktop\\multi-turn-prompt\\obj\\",
+      "outputPath": "C:\\Users\\Administration\\Desktop\\LegalBot\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administration\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6672,6 +6704,10 @@
     "frameworks": {
       "netcoreapp3.1": {
         "dependencies": {
+          "AdaptiveCards": {
+            "target": "Package",
+            "version": "[2.0.0, )"
+          },
           "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
             "target": "Package",
             "version": "[3.1.1, )"
@@ -6703,7 +6739,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

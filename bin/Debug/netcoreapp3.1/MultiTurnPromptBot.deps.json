@@ -24,6 +24,7 @@
     ".NETCoreApp,Version=v3.1": {
       "MultiTurnPromptBot/1.0.0": {
         "dependencies": {
+          "AdaptiveCards": "2.0.0",
           "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "3.1.1",
           "Microsoft.Bot.Builder.Dialogs": "4.9.3",
           "Microsoft.Bot.Builder.Integration.AspNet.Core": "4.9.0",
@@ -315,6 +316,22 @@
         },
         "compile": {
           "MultiTurnPromptBot.dll": {}
+        }
+      },
+      "AdaptiveCards/2.0.0": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0",
+          "Newtonsoft.Json": "12.0.3",
+          "System.Net.Http": "4.3.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AdaptiveCards.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.2008.4008"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/AdaptiveCards.dll": {}
         }
       },
       "Microsoft.AspNetCore.JsonPatch/3.1.1": {
@@ -3256,6 +3273,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "AdaptiveCards/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3OTNJsiqWzsmbNj7tz+F7QQhcTTJb1cjtdmd9bwkWBQ02EFG1SofOi9GbRYZQgrQ7qL4MdZhQdK6haeo8pdktg==",
+      "path": "adaptivecards/2.0.0",
+      "hashPath": "adaptivecards.2.0.0.nupkg.sha512"
     },
     "Microsoft.AspNetCore.JsonPatch/3.1.1": {
       "type": "package",

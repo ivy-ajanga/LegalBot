@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administration\\Desktop\\multi-turn-prompt\\MultiTurnPromptBot.csproj": {}
+    "C:\\Users\\Administration\\Desktop\\LegalBot\\MultiTurnPromptBot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administration\\Desktop\\multi-turn-prompt\\MultiTurnPromptBot.csproj": {
+    "C:\\Users\\Administration\\Desktop\\LegalBot\\MultiTurnPromptBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administration\\Desktop\\multi-turn-prompt\\MultiTurnPromptBot.csproj",
+        "projectUniqueName": "C:\\Users\\Administration\\Desktop\\LegalBot\\MultiTurnPromptBot.csproj",
         "projectName": "MultiTurnPromptBot",
-        "projectPath": "C:\\Users\\Administration\\Desktop\\multi-turn-prompt\\MultiTurnPromptBot.csproj",
+        "projectPath": "C:\\Users\\Administration\\Desktop\\LegalBot\\MultiTurnPromptBot.csproj",
         "packagesPath": "C:\\Users\\Administration\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administration\\Desktop\\multi-turn-prompt\\obj\\",
+        "outputPath": "C:\\Users\\Administration\\Desktop\\LegalBot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administration\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,6 +38,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "AdaptiveCards": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
               "version": "[3.1.1, )"
@@ -69,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
